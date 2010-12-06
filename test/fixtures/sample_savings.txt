@@ -1,0 +1,14 @@
+18  	  	  SALDO ANTERIOR 	338,77   	 
+26  	  	  REMUNER BASICA-ANIV.26 	0,25   	 
+26  	  	  JUROS -ANIV.26 	3,54   	 
+26  	  	  S A L D O 	242,56   	 
+27  	  	  REMUNER BASICA-ANIV.27 	0,86   	 
+27  	  	  JUROS -ANIV.27 	2.356,12   	 
+27  	  	  S A L D O 	249,54   	 
+28  	  	  REMUNER BASICA-ANIV.28 	0,31   	 
+28  	  	  JUROS -ANIV.28 	2,41   	 
+28  	  	  S A L D O 	22,26   	 
+01  	  	  TBI 1234.123456-5 	60,00-  	 
+01  	  	  REMUNER BASICA-ANIV.01 	4,04   	 
+01  	  	  JUROS -ANIV.01 	42,82   	 
+01  	  	  S A L D O 	99,12   	 

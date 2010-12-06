@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'rubygems'
+require 'itau_to_ofx'
+require "itau_to_ofx/cli"
+
+ItauToOfx::CLI.execute(STDOUT, ARGV)
