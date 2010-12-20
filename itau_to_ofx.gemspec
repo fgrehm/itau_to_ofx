@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Fabio Rehm"]
-  s.date = %q{2010-12-05}
+  s.date = %q{2010-12-19}
   s.default_executable = %q{itau_to_ofx}
   s.description = %q{Converte um extrato do Itau para OFX}
   s.email = %q{fgrehm@gmail.com}
@@ -50,7 +50,6 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<ffi>, ["~> 0.6.3"])
       s.add_runtime_dependency(%q<clipboard>, ["~> 0.9.2"])
       s.add_development_dependency(%q<shoulda>, [">= 0"])
-      s.add_development_dependency(%q<bundler>, ["~> 1.0.0"])
       s.add_development_dependency(%q<jeweler>, ["~> 1.5.1"])
       s.add_development_dependency(%q<rcov>, [">= 0"])
       s.add_runtime_dependency(%q<activesupport>, ["~> 2.3.8"])
@@ -64,7 +63,6 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<ffi>, ["~> 0.6.3"])
       s.add_dependency(%q<clipboard>, ["~> 0.9.2"])
       s.add_dependency(%q<shoulda>, [">= 0"])
-      s.add_dependency(%q<bundler>, ["~> 1.0.0"])
       s.add_dependency(%q<jeweler>, ["~> 1.5.1"])
       s.add_dependency(%q<rcov>, [">= 0"])
       s.add_dependency(%q<activesupport>, ["~> 2.3.8"])
@@ -79,7 +77,6 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<ffi>, ["~> 0.6.3"])
     s.add_dependency(%q<clipboard>, ["~> 0.9.2"])
     s.add_dependency(%q<shoulda>, [">= 0"])
-    s.add_dependency(%q<bundler>, ["~> 1.0.0"])
     s.add_dependency(%q<jeweler>, ["~> 1.5.1"])
     s.add_dependency(%q<rcov>, [">= 0"])
     s.add_dependency(%q<activesupport>, ["~> 2.3.8"])
